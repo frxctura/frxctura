@@ -17,4 +17,4 @@
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chax1&theme=synthwave&show_icons=true&locale=en&layout=compact?theme=dark" alt="chax1" /></div>
 <br>
-<div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chax1&theme=synthwave&show_icons=true&locale=en?theme=dark" alt="chax1" /></p></div>
+<div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chax1&theme=synthwave&show_icons=true&locale=en" alt="chax1" /></p></div>
