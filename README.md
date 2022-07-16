@@ -5,7 +5,7 @@
 
 <p align="center">- 💪 Currently I am working on **my schools website**  </p>
 
-<p align="center">- 💭 I'm trying to learn **Docker, Bash, Rclone, Server Stuff**  </p>
+<p align="center">- 💭 I'm trying to learn <b> Docker, Bash, Rclone, Server Stuff </b> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
