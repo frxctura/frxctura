@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Chax</h1>
+<h1 align="center">Sup, I'm Chax</h1>
 <h3 align="center">A VR Enthuasist, Hobbyist Developer and Tech Enjoyer from Germany</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chax1&label=Profile%20views&color=0e75b6&style=flat" alt="chax1" /> </p>
 
-- 💪 Currently I am working on **my schools website**
+<p align="center">- 💪 Currently I am working on **my schools website**  </p>
 
-- 💭 I'm trying to learn **Docker, Bash, Rclone, Server Stuff**
+<p align="center">- 💭 I'm trying to learn **Docker, Bash, Rclone, Server Stuff**  </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
