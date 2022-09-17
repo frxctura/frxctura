@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chax1&label=Profile%20views&color=0e75b6&style=flat" alt="chax1" /> </p>
 
-<p align="center">- 💪 Currently I am working on <b> my schools website and MaxCPUTempUI </b>  </p>
+<p align="center">- 💪 Currently I am working on <b> nothing xd </b>  </p>
 
 <p align="center">- 💭 I'm trying to learn <b> Docker, Bash, Rclone, Server Stuff </b> </p>
 
