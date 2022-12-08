@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chax1&label=Profile%20views&color=0e75b6&style=flat" alt="chax1" /> </p>
 
-<p align="center">- 💪 Currently I am working on <b> nothing xd </b>  </p>
+<p align="center">- 💪 Currently I am working on <b> nothing. </b>  </p>
 
 <p align="center">- 💭 I'm trying to learn <b> how to cope with the voices in my head. </b> </p>
 
