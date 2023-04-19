@@ -1,4 +1,4 @@
-<h1 align="center">Heya!</h1>
+<h1 align="center">Heya</h1>
 <h3 align="center">I'm Chax, a VR enthuasist, hobbyist developer and tech fanatic from Germany</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chax1&label=Profile%20views&color=0e75b6&style=flat" alt="chax1" /> </p>
