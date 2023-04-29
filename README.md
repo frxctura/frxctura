@@ -10,4 +10,5 @@
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chax1&theme=omni&show_icons=true&locale=en&layout=default&hide_border=true" alt="chax1" /></div>
 <br>
+<div align="center"><p>&nbsp;<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=niimk3v9uya2ni43a913z5q61" alt="spotify"> </p></div>
 <div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chax1&theme=omni&show_icons=true&locale=en&hide_border=true" alt="chax1" /></p></div>
