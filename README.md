@@ -17,10 +17,10 @@
 <h2 align="center">Statistics 📊</h2>
 
 <p align="center" width="100%">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-    <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chax1&theme=dark&hide_border=false">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <img width="33%" src="https://github-contributor-stats.vercel.app/api?username=Chax1&limit=5&theme=dark&combine_all_yearly_contributions=true">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chax1&theme=dark&hide_border=false">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img width="50%" src="https://github-contributor-stats.vercel.app/api?username=Chax1&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Chax1) 
