@@ -1,13 +1,26 @@
-<h1 align="center">Heya!</h1>
-<h3 align="center">I'm Chax, a VR enthuasist, hobbyist developer and tech fanatic from Germany</h3>
+<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=Chax1&icon=7&color=12"/></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chax1&label=Profile%20views&color=0e75b6&style=flat" alt="chax1" /> </p>
+<h1 align="center">👋 Heya!</h1>
+<h3 align="center">I'm Chax (she/her), a VR enthuasist, hobbyist developer and tech fanatic from Germany</h3>
+<br>
+<h2 align="center"About Me! 👩</h2>
+<p align="center">I am currently working on AndroidSideloader and VRPE-Installer.<br>My favourite language is C# and I heavily enjoy Linux, although currently use Windows!</p><br> 
 
-<p align="center">- Currently I am working on <b> VRPE Installer and AndroidSideloader </b>  </p>
+<h2 align="center">Where to find me! 🌍</h2>
+<p align="center"><img alt="Discord" align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/> Chax#0002 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Statistics
-<div float="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chax1&theme=omni&show_icons=true&locale=en&layout=default&hide_border=true" alt="chax1" /></div>
-<div float="left"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chax1&theme=omni&show_icons=true&locale=en&hide_border=true" alt="chax1" /></p></div>
+<h2 align="center">My Skillset 💻</h2>
+
+<p align="center"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> </p>
+
+<h2 align="center">Statistics 📊</h2>
+
+<p align="center" width="100%">
+    <img width="25%" src="https://github-readme-stats.vercel.app/api?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    <img width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chax1&theme=dark&hide_border=false">
+    <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img width="25%" src="https://github-contributor-stats.vercel.app/api?username=Chax1&limit=5&theme=dark&combine_all_yearly_contributions=true">
+</p>
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Chax1) 
