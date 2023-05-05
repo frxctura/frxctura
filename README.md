@@ -10,4 +10,4 @@
 
 ## Statistics
 <div align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chax1&theme=omni&show_icons=true&locale=en&layout=default&hide_border=true" alt="chax1" /></div>
-<div align="right"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chax1&theme=omni&show_icons=true&locale=en&hide_border=true" alt="chax1" /></p></div>
+<div align="left"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chax1&theme=omni&show_icons=true&locale=en&hide_border=true" alt="chax1" /></p></div>
