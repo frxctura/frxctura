@@ -7,8 +7,12 @@
 <p align="center">I am currently working on AndroidSideloader and VRPE-Installer.<br>My favourite language is C# and I heavily enjoy Linux, although currently use Windows!</p><br> 
 
 <h2 align="center">Where to find me! 🌍</h2>
-<p align="center"><img alt="Discord" align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/> Chax#0002 </p>
 
+<div align="center">
+    <a href="https://discord.com/users/468465290531962900">
+        <a src="https://lanyard.cnrad.dev/api/468465290531962900" alt="Discord at Chax#002">
+    </a>
+</div>
 
 <h2 align="center">My Skillset 💻</h2>
 
@@ -22,10 +26,6 @@
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
     <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=Chax1&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
-
-<div align="center">
-<img [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G1L1991) />
-</div>
 
 <div align="center">
     <a href="https://ko-fi.com/G2G1L1991">
