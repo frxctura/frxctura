@@ -23,4 +23,12 @@
     <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=Chax1&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G1L1991)
+<div align="center">
+<img [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G1L1991) />
+</div>
+
+<div align="center">
+    <a href="https://ko-fi.com/G2G1L1991">
+        <img width="250" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me via Ko-fi">
+    </a>
+</div>
