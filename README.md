@@ -13,6 +13,11 @@
         <img src="https://lanyard-profile-readme.vercel.app/api/468465290531962900" alt="Discord at Chax#002">
     </a>
 </div>
+<div align="center">
+    <a href="https://ko-fi.com/G2G1L1991">
+        <img width="250" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me via Ko-fi">
+    </a>
+</div>
 
 <h2 align="center">My Skillset 💻</h2>
 
@@ -25,9 +30,3 @@
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
     <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=Chax1&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
-
-<div align="center">
-    <a href="https://ko-fi.com/G2G1L1991">
-        <img width="250" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me via Ko-fi">
-    </a>
-</div>
