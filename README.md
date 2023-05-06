@@ -10,7 +10,7 @@
 
 <div align="center">
     <a href="https://discord.com/users/468465290531962900">
-        <a src="https://lanyard.cnrad.dev/api/468465290531962900" alt="Discord at Chax#002">
+        <img src="https://lanyard-profile-readme.vercel.app/api/468465290531962900" alt="Discord at Chax#002">
     </a>
 </div>
 
@@ -19,7 +19,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> </p>
 
 <h2 align="center">Statistics 📊</h2>
-
+https://lanyard-profile-readme.vercel.app/api/3376541955263037
 <p align="center" width="100%">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chax1&theme=dark&hide_border=false">
