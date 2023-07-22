@@ -10,7 +10,7 @@
 
 <div align="center">
     <a href="https://discord.com/users/468465290531962900">
-        <img src="https://lanyard-profile-readme.vercel.app/api/468465290531962900" alt="Discord at Chax#002">
+        <img src="https://lanyard-profile-readme.vercel.app/api/468465290531962900" alt="Discord at @.chax.">
     </a>
 </div>
 <div align="center">
