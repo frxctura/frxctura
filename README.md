@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=Chax1&icon=7&color=12"/></p>
 
 <h1 align="center">👋 Heya!</h1>
-<h3 align="center">I'm Chax (she/her), a VR enthuasist, hobbyist developer and tech fanatic from Germany</h3>
+<h3 align="center">I'm Maxine (she/her), a VR enthuasist, hobbyist developer and tech fanatic from Germany</h3>
 <br>
 <h2 align="center">About Me! 👩</h2>
 <p align="center">I am currently working on Rookie.<br>My favourite language is C# and I heavily enjoy Linux, although currently use Windows!</p><br> 
