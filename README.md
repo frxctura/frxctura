@@ -14,10 +14,6 @@
     </a>
 </div>
 <div align="center">
-    <a href="https://ko-fi.com/G2G1L1991">
-        <img width="250" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me via Ko-fi">
-    </a>
-</div>
 
 <h2 align="center">My Skillset 💻</h2>
 
