@@ -1,28 +1,42 @@
-<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=Chax1&icon=7&color=12"/></p>
-
 <h1 align="center">👋 Heya!</h1>
-<h3 align="center">I'm Maxine (she/her), a VR enthuasist, hobbyist developer and tech fanatic from Germany</h3>
-<br>
-<h2 align="center">About Me! 👩</h2>
-<p align="center">I am currently working on Rookie.<br>My favourite language is C# and I heavily enjoy Linux, although currently use Windows!</p><br> 
-
+<h3 align="center">I'm Maxine (she/her), a full-stack developer living and working in Germany</h3>
 <h2 align="center">Where to find me! 🌍</h2>
-
 <div align="center">
-    <a href="https://discord.com/users/468465290531962900">
-        <img src="https://lanyard-profile-readme.vercel.app/api/468465290531962900?showDisplayName=true" alt="Discord at @.chax.">
-    </a>
+  <a href="<https://discord.com/users/468465290531962900>" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/Maxine1337" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 </div>
 <div align="center">
 
-<h2 align="center">My Skillset 💻</h2>
-
-<p align="center"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> </p>
+<h2 align="center">Language and Tools ⚒️</h2>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
 
 <h2 align="center">Statistics 📊</h2>
-<p align="center" width="100%">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chax1&theme=dark&hide_border=false">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=Chax1&limit=5&theme=dark&combine_all_yearly_contributions=true">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 </p>
