@@ -1,3 +1,5 @@
+<div align="center">
+<img src="https://raw.githubusercontent.com/Chax1/Chax1/main/Maxine_Banner_2.png" height="150">
 <h1 align="center">👋 Heya!</h1>
 <h3 align="center">I'm Maxine (she/her), a full-stack developer living and working in Germany</h3>
 <h2 align="center">Where to find me! 🌍</h2>
@@ -10,7 +12,6 @@
   </a>
 </div>
 <div align="center">
-
 <h2 align="center">Language and Tools ⚒️</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
