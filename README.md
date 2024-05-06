@@ -4,7 +4,7 @@
 <h3 align="center">I'm Maxine (she/her), a full-stack developer living and working in Germany, en ik been leren Nederlands!</h3>
 <h2 align="center">Where to find me! 🌍</h2>
 <div align="center">
-  <a href="<https://discord.com/users/468465290531962900>" target="_blank">
+  <a href="https://discord.com/users/468465290531962900" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://t.me/Maxine1337" target="_blank">
