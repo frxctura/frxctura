@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Chax1/Chax1/main/Maxine_Banner_2.png" height="150">
 <h1 align="center">👋 Heya!</h1>
-<h3 align="center">I'm Maxine (she/her), a full-stack developer living and working in Germany, en ik been leren Nederlands!</h3>
+<h3 align="center">I'm Maxine (she/her), a full-stack developer living and working in Germany, en ik ben Nederlands aan het leren</h3>
 <h2 align="center">Where to find me! 🌍</h2>
 <div align="center">
   <a href="https://discord.com/users/468465290531962900" target="_blank">
