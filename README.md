@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Chax1/Chax1/main/Maxine_Banner_2.png" height="150">
+<img src="https://raw.githubusercontent.com/frxctura/frxctura/main/Maxine_Banner_2.png" height="150">
 <h1 align="center">👋 Heya!</h1>
 <h3 align="center">I'm Maxine (she/her), a full-stack developer living and working in Germany</h3>
 <h2 align="center">Where to find me! 🌍</h2>
@@ -36,5 +36,5 @@
 
 <h2 align="center">Statistics 📊</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chax1&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=frxctura&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 </p>
