@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/frxctura/frxctura/main/Maxine_Banner_2.png" height="150">
 <h1 align="center">👋 Heya!</h1>
 <h3 align="center">I'm Maxine (she/her), a full-stack developer living and working in Germany</h3>
 <h2 align="center">Where to find me! 🌍</h2>
